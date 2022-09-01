@@ -1,1 +1,1 @@
-Create a script that deletes all files in the current working directory that end with the character ~
+Write a script that lists all files
